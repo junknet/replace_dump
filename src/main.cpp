@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(int argc, char **argv) {
-
+tes
   if (argc < 3) {
     printf("./replace_dump raw dump offset\n");
     return -1;
