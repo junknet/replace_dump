@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/home/junknet/Desktop/replace_unpack",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-I", "/home/junknet/.xmake/packages/f/fmt/10.1.1/f6aacaa0e06a42ca8786f360cc1d31c5/include", "-DNDEBUG", "-o", "build/.objs/replace_unpack/linux/x86_64/release/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+}]
